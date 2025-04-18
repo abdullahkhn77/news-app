@@ -5,9 +5,6 @@ Tech, Science, Travel, and Books. The splash screen presents these categories wi
 thereby doing away with additional screens and making it easier for the user to access any news category with just a finger 
 swipe. 
 
-This app has been built to the specifications of the News app project rubric, which is part of the 
-Networking module of [Udacity's Android Basics Nanodegree program](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
-
 ### Objective
 The goal is to create a News feed app which gives an user regularly-updated news from the internet.
 
